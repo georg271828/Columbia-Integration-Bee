@@ -1,1 +1,1 @@
-# Columbia-Integration-Bee
+# Columbia Integration Bee
