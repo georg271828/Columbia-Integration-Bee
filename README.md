@@ -5,7 +5,7 @@ Welcome to the Columbia Integration Bee contest page!
 
 ## 2022
 
-The contest consits of two rounds, a **Qualifying Round** and a **Single Elimination Round**, as follows. 
+The contest consits of two rounds, a **Qualifying Round** and a **Final Tournament**, as follows. 
 
 ## Qualifying Round
 ### Friday, February 18, 2:30-5:00pm in 207 Mathematics Hall 
@@ -20,8 +20,18 @@ Registration link: [https://forms.gle/Rutcqa1WkipBqcWU](https://forms.gle/Rutcqa
 
 Register by 2:00pm on Friday February 18th.
 
-*Missed the registration period?*  
-No problem! Just drop by 207 Mathematics during the qualifying round 2:30-5:00pm on Friday February 18th.
+## FQA
+
+- *Who can compete?*  
+Any Barnard or Columbia undergraduate student.  
+- *I missed the registration period. Can I compete?*  
+No problem! Just drop by 207 Mathematics during the qualifying round 2:30-5:00pm on Friday February 18th.  
+- *What to bring with me at the qualifying round? at the final tournament?*  
+Bring a pencil at the qualifying round and ..some inspiration :) At the final tournament, bring your friends!  
+- *What type of problems will I solve?*  
+Integrals. 
+- *Where I can find past qualifying tests?*  
+Integration Bee did not run at Columbia in recent years. [Here](https://youtu.be/qQ-56b_LvOw) is an example from MIT. 
 
 #### 2022 Columbia Integration Bee organizers 
  - [George Dragomir](mailto:dragomir@math.columbia.edu?subject=Columbia%20Integration%20Bee) and [Francesco Lin](mailto:flin@math.columbia.edu?subject=Columbia%20Integration%20Bee)
