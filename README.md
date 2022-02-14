@@ -6,7 +6,7 @@ Welcome to the Columbia Integration Bee contest page!
 
 ![Header](ibheader.png)
 
-<img src="ibheader.png" alt="" width="100%"\>
+<img src="ibheader.png" alt="" width="100%"/>
 
 The contest consits of two rounds, a **Qualifying Round** and a **Final Tournament**, as follows. 
 
