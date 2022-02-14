@@ -1,3 +1,3 @@
 # Columbia Integration Bee
 
-info: when, where, what
+https://georg271828.github.io/Columbia-Integration-Bee/
