@@ -1,9 +1,8 @@
-# Columbia Integration Bee
 
 Welcome to the Columbia Integration Bee contest page! 
 
 
-## 2022
+## 2022 Columbia Integration Bee
 
 The contest consits of two rounds, a **Qualifying Round** and a **Final Tournament**, as follows. 
 
@@ -32,6 +31,7 @@ Bring a pencil at the qualifying round and ..some inspiration :) At the final to
 Integrals. 
 - *Where I can find past qualifying tests?*  
 Integration Bee did not run at Columbia in recent years. [Here](https://youtu.be/qQ-56b_LvOw) is an example from MIT. 
+___
 
 #### 2022 Columbia Integration Bee organizers 
  - [George Dragomir](mailto:dragomir@math.columbia.edu?subject=Columbia%20Integration%20Bee) and [Francesco Lin](mailto:flin@math.columbia.edu?subject=Columbia%20Integration%20Bee)
