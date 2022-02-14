@@ -30,8 +30,10 @@ Bring a pencil at the qualifying round and ..some inspiration :) At the final to
 - *What type of problems will I solve?*  
 Integrals. 
 - *Where I can find past qualifying tests?*  
-Integration Bee did not run at Columbia in recent years. [Here](https://youtu.be/qQ-56b_LvOw) is an example from MIT. 
+Integration Bee did not run at Columbia in recent years. [Here](https://youtu.be/qQ-56b_LvOw) is an example from MIT.  
+
 _ _ _
+
 
 #### 2022 Columbia Integration Bee organizers 
  - [George Dragomir](mailto:dragomir@math.columbia.edu?subject=Columbia%20Integration%20Bee) and [Francesco Lin](mailto:flin@math.columbia.edu?subject=Columbia%20Integration%20Bee)
