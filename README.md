@@ -4,6 +4,8 @@ Welcome to the Columbia Integration Bee contest page!
 
 ## 2022 Columbia Integration Bee
 
+![Header]('ibheader.png')
+
 The contest consits of two rounds, a **Qualifying Round** and a **Final Tournament**, as follows. 
 
 ## Qualifying Round
