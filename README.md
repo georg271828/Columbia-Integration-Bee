@@ -14,7 +14,7 @@ In the qualifying round you will have one hour to solve as many integrals as you
 
 ## Final Tournament 
 ### Friday, February 25, 2:30pm in 428 Pupin Hall 
-The final tournament is based on a 12 player playoff bracket style, where the top four contestants in the qualifying round are given byes in the first round. Participants in the simple elimination round compete head-to-head, at the blackboard. The final two competitors receive book prizes, the remaining 10 contestants will receive consolation prizes. The winner will be awarded the title of **Columbia's Grand Integrator**!
+The final tournament is based on a 12 player bracket style playoff, where the top four contestants in the qualifying round are given byes in the first round. Participants in the simple elimination round compete head-to-head, at the blackboard. The final two competitors receive book prizes, the remaining 10 contestants will receive consolation prizes. The winner will be awarded the title of **Columbia's Grand Integrator**!
   
 ## Registration
 Registration link: [https://forms.gle/MQcBkBcbuVkP7Fte8](https://forms.gle/MQcBkBcbuVkP7Fte8)
