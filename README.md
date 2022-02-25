@@ -26,13 +26,13 @@ The final tournament is based on a 12 player bracket style playoff, where the to
 6. Matthew Stridiron  
 7. Forrest Weintraub   
 8. Mark Kirichev  
-9. Ekene Ezeunala  
+9. ~~Ekene Ezeunala~~  
 10. Kevin Zhang  
 11. Bowen Zheng  
 12. Sannidhya Modi  
 ### Reserves  
 13. Tina Liu  
-14. Jacob Weinstein  
+14. ~~Jacob Weinstein~~  
 15. Boris Bulatovic  
 16. Ahmed Shaaban  
 
