@@ -11,6 +11,8 @@ Final round: [Zhenfeng Tu](/Columbia-Integration-Bee/2022/finalist_1.JPG) vs [Ks
 [Elimination Round](https://youtu.be/ic_9DpBmrWU)   
 _ _ _  
 
+  
+  
 ### 2022 Grand Integrator: Zhenfeng Tu
 _ _ _  
 
@@ -44,5 +46,5 @@ _ _ _
  - Undergraduate Students: [Lucas Alves](mailto:alves.lucas@columbia.edu?subject=Columbia%20Integration%20Bee), [Justin Ghaeli](mailto:jag2384@columbia.edu?subject=Columbia%20Integration%20Bee), and [Jeffrey Xiong](mailto:jx2446@columbia.edu?subject=Columbia%20Integration%20Bee)   
 
 - - - 
-[back](./Columbia-Integration-Bee/)
+[back](./Columbia-Integration-Bee/index.html)
 
