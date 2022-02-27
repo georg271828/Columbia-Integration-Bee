@@ -1,13 +1,19 @@
-## 2022 Columbia Integration Bee
+# 2022 Columbia Integration Bee
 
 ## Qualifying Round
 ### Friday, February 18, 2:30-5:00pm in 207 Mathematics Hall 
-You are welcome to drop by 207 Mathematics at any time during the event, but you should plan to arrive no later than 4pm to have the full hour to solve the integrals.
+[Qualifying Test](/Columbia_integration-Bee/2022/Qualifying.pdf)
 
 ## Final Tournament 
 ### Friday, February 25, 2:30pm in 428 Pupin Hall
+Final round: [Zhenfeng Tu](/Columbia-Integration-Bee/2022/finalist_1.JPG) vs [Kshitij Gupta](/Columbia-Integration-Bee/2022/finalist_2.JPG)  
 
-## 2022 Finalists  
+[Elimination Round](https://youtu.be/ic_9DpBmrWU)
+
+## 2022 Grand Integrator: Zhenfeng Tu
+_ _ _  
+
+### 2022 Finalists  
 1. Zhenfeng Tu  
 2. Avishi Poddar  
 3. Heyuan Yao  
@@ -20,7 +26,7 @@ You are welcome to drop by 207 Mathematics at any time during the event, but you
 10. Kevin Zhang  
 11. Bowen Zheng  
 12. Sannidhya Modi  
-### Reserves  
+#### Reserves  
 13. Tina Liu  
 14. ~~Jacob Weinstein~~  
 15. Boris Bulatovic  
@@ -29,14 +35,9 @@ You are welcome to drop by 207 Mathematics at any time during the event, but you
 18. Majed Bukhari  
 19. Krish Singal  
 
-## Registration 
-Registration link:[https://forms.gle/MQcBkBcbuVkP7Fte8](https://forms.gle/MQcBkBcbuVkP7Fte8)
-
-Register by 2:00pm on Friday February 18th.
-
 _ _ _
 
 
-#### 2022 Columbia Integration Bee organizers 
+### 2022 Columbia Integration Bee [organizers](/Columbia-Integration-Bee/2022/2022_organizers.HEIC) 
  - [George Dragomir](mailto:dragomir@math.columbia.edu?subject=Columbia%20Integration%20Bee) and [Francesco Lin](mailto:flin@math.columbia.edu?subject=Columbia%20Integration%20Bee)
  - Undergraduate Students: [Lucas Alves](mailto:alves.lucas@columbia.edu?subject=Columbia%20Integration%20Bee), [Justin Ghaeli](mailto:jag2384@columbia.edu?subject=Columbia%20Integration%20Bee), and [Jeffrey Xiong](mailto:jx2446@columbia.edu?subject=Columbia%20Integration%20Bee)
