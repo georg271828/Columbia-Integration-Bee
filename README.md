@@ -21,7 +21,7 @@ Bring a pencil at the qualifying round and ..some inspiration :) At the final to
 - *What type of problems will I solve?*  
 Integrals. 
 - *Where I can find past qualifying tests?*  
-2022 Qualifying Test can be found [here](/Columbia-Integration-Bee/2022/Qualifying.pdf). See more about the 2022 competition [here](./2022_contest.html).
+2022 Qualifying Test can be found [here](/Columbia-Integration-Bee/2022/Qualifying.pdf). See more about the 2022 competition [here](./2022/2022_contest.html).
 
 
 _ _ _
