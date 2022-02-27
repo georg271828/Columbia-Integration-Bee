@@ -1,63 +1,31 @@
+<img src="cib_header.png" alt="" width="100%"/>
 
-Welcome to the Columbia Integration Bee contest page! 
+### Welcome to the Columbia Integration Bee contest page! 
 
-
-## 2022 Columbia Integration Bee
-
-<img src="ibheader.png" alt="" width="100%"/>
-
-The contest consits of two rounds, a **Qualifying Round** and a **Final Tournament**, as follows. 
+The contest consists of two rounds, a **Qualifying Round** and a **Final Tournament**, as follows. 
 
 ## Qualifying Round
-### Friday, February 18, 2:30-5:00pm in 207 Mathematics Hall 
-In the qualifying round you will have one hour to solve as many integrals as you can from a list of 20+ integrals. Points are given only for complete, correct answers. You are welcome to drop by 207 Mathematics at any time during the event, but you should plan to arrive no later than 4pm to have the full hour to solve the integrals. Top 12 scores qualify for the single elimination round. The next four top scores are kept as reserves in case any of the top 12 are unable to attend.   
+In the qualifying round you will have one hour to solve as many integrals as you can from a list of 20+ integrals. Points are given only for complete, correct answers. Top 12 scores qualify for the single elimination round. The next four top scores are kept as reserves in case any of the top 12 are unable to attend.   
 
 ## Final Tournament 
-### Friday, February 25, 2:30pm in 428 Pupin Hall 
-The final tournament is based on a 12 player bracket style playoff, where the top four contestants in the qualifying round are given byes in the first round. Participants in the simple elimination round compete head-to-head, at the blackboard. The final two competitors receive book prizes, the remaining 10 contestants will receive consolation prizes. The winner will be awarded the title of **Columbia's Grand Integrator**!
-
-
-## 2022 Finalists  
-1. Zhenfeng Tu  
-2. Avishi Poddar  
-3. Heyuan Yao  
-4. Kshitij Gupta  
-5. Daniel Borovskiy  
-6. Matthew Stridiron  
-7. Forrest Weintraub   
-8. Mark Kirichev  
-9. ~~Ekene Ezeunala~~  
-10. Kevin Zhang  
-11. Bowen Zheng  
-12. Sannidhya Modi  
-### Reserves  
-13. Tina Liu  
-14. ~~Jacob Weinstein~~  
-15. Boris Bulatovic  
-16. Ahmed Shaaban  
-
-## Registration 
-Registration link:[https://forms.gle/MQcBkBcbuVkP7Fte8](https://forms.gle/MQcBkBcbuVkP7Fte8)
-
-Register by 2:00pm on Friday February 18th.
+The final tournament is based on a 12 player bracket style playoff, where the top four contestants in the qualifying round are given byes in the first round. Participants in the simple elimination round compete head-to-head, at the blackboard. The final competitors receive book prizes. The winner will be awarded the title of **Columbia's Grand Integrator**!
 
 ## FQA
 
 - *Who can compete?*  
 Any Barnard or Columbia undergraduate student.  
 - *I missed the registration period. Can I compete?*  
-No problem! Just drop by 207 Mathematics during the qualifying round 2:30-5:00pm on Friday February 18th.  
+No problem! Just drop by during the qualifying round.  
 - *What to bring with me at the qualifying round? at the final tournament?*  
 Bring a pencil at the qualifying round and ..some inspiration :) At the final tournament, bring your friends!  
 - *What type of problems will I solve?*  
 Integrals. 
 - *Where I can find past qualifying tests?*  
-Integration Bee did not run at Columbia in recent years. [Here](https://youtu.be/qQ-56b_LvOw) is an example from MIT.  
+2022 Qualifying Test can be found [here](/Columbia-Integration-Bee/2022/Qualifying.pdf). See more about the 2022 competition [here](./2022
+
 
 _ _ _
 
-
-#### 2022 Columbia Integration Bee organizers 
- - [George Dragomir](mailto:dragomir@math.columbia.edu?subject=Columbia%20Integration%20Bee) and [Francesco Lin](mailto:flin@math.columbia.edu?subject=Columbia%20Integration%20Bee)
- - Undergraduate Students: [Lucas Alves](mailto:alves.lucas@columbia.edu?subject=Columbia%20Integration%20Bee), [Justin Ghaeli](mailto:jag2384@columbia.edu?subject=Columbia%20Integration%20Bee), and [Jeffrey Xiong](mailto:jx2446@columbia.edu?subject=Columbia%20Integration%20Bee)
+#### Contact 
+ - [George Dragomir](mailto:dragomir@math.columbia.edu?subject=Columbia%20Integration%20Bee) 
     
