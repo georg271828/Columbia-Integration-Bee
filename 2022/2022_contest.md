@@ -2,7 +2,7 @@
 
 ## Qualifying Round
 ### Friday, February 18, 2:30-5:00pm in 207 Mathematics Hall 
-[Qualifying Test](/Columbia_integration-Bee/2022/Qualifying.pdf)
+[Qualifying Test](/Columbia-Integration-Bee/2022/Qualifying.pdf)  
 
 ## Final Tournament 
 ### Friday, February 25, 2:30pm in 428 Pupin Hall
@@ -13,7 +13,7 @@ Final round: [Zhenfeng Tu](/Columbia-Integration-Bee/2022/finalist_1.JPG) vs [Ks
 ## 2022 Grand Integrator: Zhenfeng Tu
 _ _ _  
 
-### 2022 Finalists  
+### 2022 [Finalists]([Zhenfeng Tu](/Columbia-Integration-Bee/2022/finalists(-1).JPG)
 1. Zhenfeng Tu  
 2. Avishi Poddar  
 3. Heyuan Yao  
