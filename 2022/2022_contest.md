@@ -2,7 +2,7 @@
 
 ## Qualifying Round
 ### Friday, February 18, 2:30-5:00pm in 207 Mathematics Hall 
-[Qualifying Test](/Columbia-Integration-Bee/2022/Qualifying.pdf)  
+[Qualifying Test](/Columbia-Integration-Bee/2022/2022_qualifying.pdf)  
 
 ## Final Tournament 
 ### Friday, February 25, 2:30pm in 428 Pupin Hall
