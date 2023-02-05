@@ -10,9 +10,9 @@ In the qualifying round you will have one hour to solve as many integrals as you
 ### Final Tournament 
 The final tournament is based on a 12 player bracket style playoff, where the top four contestants in the qualifying round are given byes in the first round. Participants in the simple elimination round compete head-to-head, at the blackboard. The final competitors receive book prizes. The winner will be awarded the title of **Columbia's Grand Integrator**!
 
-### Next Columbia Integration Bee: January 2023
+### Next Columbia Integration Bee: February 2023
 
-Registration for the Spring 2023 Integratioin Bee will be open December 2022 - January 2023. Please note, you must be a current undergraduate of Barnard College or Columbia University to participate. 
+Registration for the Spring 2023 Integratioin Bee will be open February 2023. Please note, you must be a current undergraduate of Barnard College or Columbia University to participate. 
 
 
 ### FQA
