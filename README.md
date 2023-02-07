@@ -17,7 +17,7 @@ The final tournament is based on a 12 player bracket style playoff, where the to
 
 Registration for the **2023 Columbia Integratioin Bee** is now open. Please note, you must be a current undergraduate of Barnard College or Columbia University to participate. 
 
-[**Register today!**](https://docs.google.com/forms/d/e/1FAIpQLSfH9wveCp9RW-O6jdYOZjxPHi_JCM2vlVe0HJUf45MRUJ6WhA/viewform?usp=sf_link)
+[**Register today!**](https://docs.google.com/forms/d/e/1FAIpQLSdy3A810KN6g2exeUQBS5CCa-oVdXgnk3uhoAc3aEHQNG0MFA/viewform?usp=sf_link)
 
 
 ### FQA
