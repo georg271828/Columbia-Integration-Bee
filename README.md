@@ -15,11 +15,25 @@ The final tournament is based on a 12 player bracket style playoff, where the to
 - **Qualifying round:** Friday February 24th from 2:30-5:30pm in 312 Mathematics 
 - **Final tournament:** Friday March 3rd at 3:00pm in 428 Pupin Hall
 
-Registration for the **2023 Columbia Integratioin Bee** is now open. Please note, you must be a current undergraduate of Barnard College or Columbia University to participate. 
+### 2023 Finalists 
+ 
+1. Matthew Stridiron 
+2. Rahul Ram 
+3. Geoffrey Wu 
+4. Akshat Yaparla 
+5. Chaipat Tirapongprasert 
+6. Kevin Zhang 
+7. Ethan Lipson 
+8. Krish Singal 
+9. Boris Bulatovic 
+10. Neilesh Shrotri 
+11. Forrest Weintraub 
+12. Jonathan Socoy 
+#### Reserves
+13. Aiyu Wu 
+14. Andrew Yang 
 
-[**Register today!**](https://docs.google.com/forms/d/e/1FAIpQLSdy3A810KN6g2exeUQBS5CCa-oVdXgnk3uhoAc3aEHQNG0MFA/viewform?usp=sf_link)
-
-
+____
 ### FQA
 
 - *Who can compete?*  
