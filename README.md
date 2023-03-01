@@ -32,6 +32,8 @@ The final tournament is based on a 12 player bracket style playoff, where the to
 #### Reserves
 13. Aiyu Wu 
 14. Andrew Yang 
+15. Aswath Suryanarayanan 
+16. Pablo Buitrago 
 
 ____
 ### FQA
