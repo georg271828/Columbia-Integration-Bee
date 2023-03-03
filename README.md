@@ -27,8 +27,8 @@ The final tournament is based on a 12 player bracket style playoff, where the to
 8. Krish Singal 
 9. Boris Bulatovic 
 10. Neilesh Shrotri 
-11. Forrest Weintraub 
-12. Jonathan Socoy 
+11. ~~Forrest Weintraub~~ 
+12. ~~Jonathan Socoy~~ 
 #### Reserves
 13. Aiyu Wu 
 14. Andrew Yang 
