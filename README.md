@@ -30,7 +30,7 @@ Bring a pencil at the qualifying round and ..some inspiration :) At the final to
 - *What type of problems will I solve?*  
 Integrals. 
 - *Where I can find past qualifying tests?*  
-Qualifying Test can be found here: [2022](/Columbia-Integration-Bee/2022/2022_qualifying.pdf) and [2023](Columbia-Integration-Bee/2022/2023_qualifying.pdf). See more about the past competitions [here](./2022/2022_contest.html).
+For past qualifying tests see: [2022](/Columbia-Integration-Bee/2022/2022_qualifying.pdf) and [2023](Columbia-Integration-Bee/2022/2023_qualifying.pdf). See more about the past competitions [here](./2022/2022_contest.html).
 - *I want to help organize the next Integration Bee. Who do I contact?*   
 Contact [George Dragomir](mailto:dragomir@math.columbia.edu?subject=Columbia%20Integration%20Bee).
 
