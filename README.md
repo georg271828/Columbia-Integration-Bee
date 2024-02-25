@@ -13,7 +13,7 @@ The final tournament is based on a 12 player bracket style playoff, where the to
 
 ## 2024 Columbia Integration Bee
 
-- **Qualifying round:** Friday February 23rd from 5:00pm in 329 Pupin Hall 
+- **Qualifying round:** Friday February 23rd from 5:00pm in 329 Pupin Hall (see the qualifying test [here](./2024_qualifying.pdf))
 - **Final tournament:** Friday March 1st at 5:00pm in 329 Pupin Hall
 
 ### 2024 Finalists 
@@ -30,9 +30,7 @@ The final tournament is based on a 12 player bracket style playoff, where the to
 10.	Jarrett Parker Reimers
 11.	Joshua Young Hahn
 12.	Mark Martinov Kirichev
-
 #### Reserves
-
 13.	Caio Hermano Maia de Oliveira
 14.	Ruimian Zheng
 15.	Jon Kwong
