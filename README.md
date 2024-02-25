@@ -10,14 +10,33 @@ In the qualifying round you will have one hour to solve as many integrals as you
 ### Final Tournament 
 The final tournament is based on a 12 player bracket style playoff, where the top four contestants in the qualifying round are given byes in the first round. Participants in the simple elimination round compete head-to-head, at the blackboard. The competitors in the final tournament receive consolation prizes. The winner will be awarded the title of **Columbia's Grand Integrator**!
 
-## **Register [here](https://docs.google.com/forms/d/e/1FAIpQLSe8EIjb2XNatNaIA1p8XL5ZKwXrKVliDw2pbZlYFT_N0cajfg/viewform?usp=sf_link)**. 
 
 ## 2024 Columbia Integration Bee
 
 - **Qualifying round:** Friday February 23rd from 5:00pm in 329 Pupin Hall 
 - **Final tournament:** Friday March 1st at 5:00pm in 329 Pupin Hall
 
-### 2024 Finalists & reserves will appear here
+### 2024 Finalists 
+
+1.	Eric Yuang Shao
+2.	Akshat Yaparla
+3.	Sanghun Han
+4.	Will Li
+5.	Neilesh Shrotri
+6.	Nikhil Mudumbi
+7.	Kevin Yankai Zhang
+8.	Andrew Yang
+9.	Norie Hirai
+10.	Jarrett Parker Reimers
+11.	Joshua Young Hahn
+12.	Mark Martinov Kirichev
+
+#### Reserves
+
+13.	Caio Hermano Maia de Oliveira
+14.	Ruimian Zheng
+15.	Jon Kwong
+16.	William Gould Vietor
 
 
 ____
