@@ -5,7 +5,7 @@ _ _ _
 1. Matthew Stridiron
 2. Rahul Ram
 3. Geoffrey Wu
-4. Akshat Yaparla
+4. **Akshat Yaparla** Columbia's Grand Integrator
 5. Chaipat Tirapongprasert
 6. Kevin Zhang
 7. Ethan Lipson
@@ -23,7 +23,7 @@ _ _ _
 - - - 
 
 #### 2022 Finalists
-1. Zhenfeng Tu  
+1. **Zhenfeng Tu** Columbia's Grand Integrator
 2. Avishi Poddar  
 3. Heyuan Yao  
 4. Kshitij Gupta  
