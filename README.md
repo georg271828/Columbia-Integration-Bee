@@ -14,7 +14,7 @@ The final tournament is based on a 12 player bracket style playoff, where the to
 ## 2024 Columbia Integration Bee
 
 - **Qualifying round:** Friday February 23rd from 5:00pm in 329 Pupin Hall (see the qualifying test [here](./2024_qualifying.pdf))
-- **Final tournament:** Friday March 1st at 5:00pm in 329 Pupin Hall
+- **Final tournament:** Friday March 1st at 5:00pm in **SCH 501 Schermerhorn** -- **NEW ROOM**
 
 ### 2024 Finalists 
 
