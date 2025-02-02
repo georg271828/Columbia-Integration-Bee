@@ -1,6 +1,28 @@
 # Past Years Columbia Integration Bee
 _ _ _  
 
+#### 2024 Finalists 
+
+1.	Eric Yuang Shao
+2.	Akshat Yaparla
+3.	Sanghun Han
+4.	Will Li
+5.	Neilesh Shrotri
+6.	Nikhil Mudumbi
+7.	Kevin Yankai Zhang
+8.	Andrew Yang
+9.	Norie Hirai
+10.	Jarrett Parker Reimers
+11.	Joshua Young Hahn
+12.	Mark Martinov Kirichev
+##### Reserves
+13.	Caio Hermano Maia de Oliveira
+14.	Ruimian Zheng
+15.	Jon Kwong
+16.	William Gould Vietor
+
+_ _ _ 
+
 #### 2023 Finalists
 1. Matthew Stridiron
 2. Rahul Ram
