@@ -11,7 +11,7 @@ In the qualifying round you will have one hour to solve as many integrals as you
 The final tournament is based on a 12 player bracket style playoff, where the top four contestants in the qualifying round are given byes in the first round. Participants in the simple elimination round compete head-to-head, at the blackboard. The competitors in the final tournament receive consolation prizes. The winner will be awarded the title of **Columbia's Grand Integrator**!
 
 
-## 2024 Columbia Integration Bee
+## 2025 Columbia Integration Bee
 
 - **Qualifying round:** Friday February 28 from 5:00pm (room TBA)
 - **Final tournament:** Friday March 7 at 5:00pm (room TBA)
