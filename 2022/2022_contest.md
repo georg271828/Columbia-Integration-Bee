@@ -9,7 +9,7 @@ _ _ _
 4.	Will Li
 5.	Neilesh Shrotri
 6.	Nikhil Mudumbi
-7.	Kevin Yankai Zhang
+7.	**Kevin Yankai Zhang** -- Columbia's Grand Integrator 
 8.	Andrew Yang
 9.	Norie Hirai
 10.	Jarrett Parker Reimers
