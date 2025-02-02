@@ -13,28 +13,9 @@ The final tournament is based on a 12 player bracket style playoff, where the to
 
 ## 2024 Columbia Integration Bee
 
-- **Qualifying round:** Friday February 23rd from 5:00pm in 329 Pupin Hall (see the qualifying test [here](./2024_qualifying.pdf))
-- **Final tournament:** Friday March 1st at 5:00pm in **SCH 501 Schermerhorn** -- **NEW ROOM**
+- **Qualifying round:** Friday February 28 from 5:00pm (room TBA)
+- **Final tournament:** Friday March 7 at 5:00pm (room TBA)
 
-### 2024 Finalists 
-
-1.	Eric Yuang Shao
-2.	Akshat Yaparla
-3.	Sanghun Han
-4.	Will Li
-5.	Neilesh Shrotri
-6.	Nikhil Mudumbi
-7.	Kevin Yankai Zhang
-8.	Andrew Yang
-9.	Norie Hirai
-10.	Jarrett Parker Reimers
-11.	Joshua Young Hahn
-12.	Mark Martinov Kirichev
-#### Reserves
-13.	Caio Hermano Maia de Oliveira
-14.	Ruimian Zheng
-15.	Jon Kwong
-16.	William Gould Vietor
 
 
 ____
@@ -49,7 +30,7 @@ Bring a pencil at the qualifying round and ..some inspiration :) At the final to
 - *What type of problems will I solve?*  
 Integrals. 
 - *Where I can find past qualifying tests?*  
-For past qualifying tests see: [2022](./2022/2022_qualifying.pdf) and [2023](./2022/2023_qualifying.pdf). See more about the past competitions [here](./2022/2022_contest.html).
+For past qualifying tests see: [2022](./2022/2022_qualifying.pdf), [2023](./2022/2023_qualifying.pdf), and [2023](./2022/2023_qualifying.pdf). See more about the past competitions [here](./2022/2022_contest.html).
 - *I want to help organize the next Integration Bee. Who do I contact?*   
 Contact [George Dragomir](mailto:dragomir@math.columbia.edu?subject=Columbia%20Integration%20Bee).
 
