@@ -31,7 +31,7 @@ Bring a pencil at the qualifying round and ..some inspiration :) At the final to
 Integrals. 
 - *Where I can find past qualifying tests?*  
 For past qualifying tests see: [2022](./2022/2022_qualifying.pdf), [2023](./2022/2023_qualifying.pdf), and [2024](./2022/2024_qualifying.pdf).
-- *Where I can find past finalists?*
+- *Where I can find past finalists?*   
 See more about the past competitions and the winners [here](./2022/2022_contest.html).
 - *I want to help organize the next Integration Bee. Who do I contact?*   
 Contact [George Dragomir](mailto:dragomir@math.columbia.edu?subject=Columbia%20Integration%20Bee).
