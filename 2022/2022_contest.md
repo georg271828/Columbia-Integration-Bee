@@ -71,9 +71,10 @@ _ _ _
 _ _ _  
 
 #### Columbia Integration Bee organizers
- - [George Dragomir](mailto:dragomir@math.columbia.edu?subject=Columbia%20Integration%20Bee) and [Francesco Lin](mailto:flin@math.columbia.edu?subject=Columbia%20Integration%20Bee)
- - 2022: Lucas Alves (undergrad), Justin Ghaeli (undergrad), and Jeffrey Xiong (undergrad)
- - 2023: Jeffrey Xiong (undergrad), Rafah Hajjar Munoz (grad),  Alex Scheffelin (grad)
+ - 2022: George Dragomir, Francesco Lin, Lucas Alves (undergrad), Justin Ghaeli (undergrad), and Jeffrey Xiong (undergrad)
+ - 2023: George Dragomir, Francesco Lin, Rafah Hajjar Munoz (grad),  Alex Scheffelin (grad), Jeffrey Xiong (undergrad)
+ - 2024: George Dragomir, Austin Lei (graduate), Amanda Lin (undergrad), Madeleine Day (undergraduate)
+ - 2025: George Dragomir, Austin Lei (graduate), TBD
 
 - - -   
 
