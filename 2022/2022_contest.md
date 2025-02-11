@@ -74,7 +74,7 @@ _ _ _
  - 2022: George Dragomir, Francesco Lin, Lucas Alves (undergrad), Justin Ghaeli (undergrad), and Jeffrey Xiong (undergrad)
  - 2023: George Dragomir, Francesco Lin, Rafah Hajjar Munoz (grad),  Alex Scheffelin (grad), Jeffrey Xiong (undergrad)
  - 2024: George Dragomir, Austin Lei (graduate), Amanda Lin (undergrad), Madeleine Day (undergraduate)
- - 2025: George Dragomir, Austin Lei (graduate), TBD
+ - 2025: George Dragomir, Austin Lei (graduate), Douglas Chen (graduate), Nikhil Shanbhag (graduate)
 
 - - -   
 
