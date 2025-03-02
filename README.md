@@ -15,7 +15,7 @@ The final tournament is based on a 12 player bracket style playoff, where the to
 
 ## 2025 Columbia Integration Bee
 
-- **Qualifying round:** Friday February 28 4:30-6:30pm in Mathematics 312 
+- **Qualifying round:** [2025](./2022/2025_qualifying.pdf) 
 - <span style="color:red"> **Final tournament: Friday March 7 at 5:00pm in Havemeyer 309** </span>  
 
 ## 2025 Finalists:
