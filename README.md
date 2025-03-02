@@ -10,15 +10,34 @@ In the qualifying round you will have **one hour** to solve as many integrals as
 The qualifying test can be taken during any one-hour interval within the time window listed below.
 
 ### Final Tournament 
-The final tournament is based on a 12 player bracket style playoff, where the top four contestants in the qualifying round are given byes in the first round. Participants in the simple elimination round compete head-to-head, at the blackboard. The competitors in the final tournament receive consolation prizes. The winner will be awarded the title of **Columbia's Grand Integrator**!
+The final tournament is based on a 12 player bracket style playoff, where the top four contestants in the qualifying round are given byes in the first round. Participants in the elimination round compete head-to-head, at the blackboard. The competitors in the final tournament receive consolation prizes. The winner will be awarded the title of **Columbia's Grand Integrator**!
 
 
 ## 2025 Columbia Integration Bee
 
 - **Qualifying round:** Friday February 28 4:30-6:30pm in Mathematics 312 
-- **Final tournament:** Friday March 7 from 5:00pm in Havemeyer 309   
+- <span style="color:red"> **Final tournament: Friday March 7 at 5:00pm in Havemeyer 309** </span>  
 
-### <span style="color:red">Register </span> [here](https://forms.gle/vaGyMCvXDWfA3SVH7).  
+## 2025 Finalists:
+
+1. Andrii	Shypachov
+2. Leo	Li
+3. Luke	Freed
+4. Srijan	Deoraj
+5. Will	Li
+6. Felix	Liu
+7. Eric	Shao
+8. Neilesh	Shrotri
+9. Daniel	Cheng
+10. Sharanya	Chatterjee
+11. Nikhil	Mudumbi
+12. Shreyas	Rajaram
+
+### Reserves: 
+13. Zachary	Klein
+14. Shreyas	Singh
+15. Dhruv	Yalamanchi
+16. Mateo	Ramirez
 
 ____
 ### FAQ
