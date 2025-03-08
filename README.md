@@ -21,23 +21,23 @@ The final tournament is based on a 12 player bracket style playoff, where the to
 ## 2025 Finalists:
 
 1. Andrii	Shypachov
-2. Leo	Li
-3. Luke	Freed
-4. Srijan	Deoraj
-5. Will	Li
-6. Felix	Liu
-7. Eric	Shao
-8. Neilesh	Shrotri
-9. Daniel	Cheng
-10. Sharanya	Chatterjee
-11. Nikhil	Mudumbi
-12. Shreyas	Rajaram
+2. Leo	Li 
+3. Luke	Freed 
+4. Eric	Shao 
+5. **Srijan	Deoraj - 2025 Columbia Grand Integrator** 
+6. Will	Li 
+7. Felix	Liu 
+8. Neilesh	Shrotri 
+9. Daniel	Cheng 
+10. Sharanya	Chatterjee 
+11. Zachary	Klein 
+12. Nikhil	Mudumbi 
 
 ### Reserves: 
-13. Zachary	Klein
-14. Shreyas	Singh
-15. Dhruv	Yalamanchi
-16. Mateo	Ramirez
+13. Shreyas	Rajaram 
+14. Dhruv	Yalamanchi 
+15. Shreyas	Singh 
+16. Mateo	Ramirez 
 
 ____
 ### FAQ
