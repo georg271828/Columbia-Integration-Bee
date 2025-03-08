@@ -24,7 +24,7 @@ The final tournament is based on a 12 player bracket style playoff, where the to
 2. Leo	Li 
 3. Luke	Freed 
 4. Eric	Shao 
-5. **Srijan	Deoraj - [2025 Columbia Grand Integrator](./2022/2025 Integration Bee Finals.pdf)** 
+5. **Srijan	Deoraj -- [Columbia's Grand Integrator](./2022/2025 Integration Bee Finals.pdf)** 
 6. Will	Li 
 7. Felix	Liu 
 8. Neilesh	Shrotri 
