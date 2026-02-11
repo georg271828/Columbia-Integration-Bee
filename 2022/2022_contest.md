@@ -1,6 +1,28 @@
 # Past Years Columbia Integration Bee
 _ _ _  
 
+#### 2025 Finalists:
+
+1. Andrii	Shypachov
+2. Leo	Li 
+3. Luke	Freed 
+4. Eric	Shao 
+5. **Srijan	Deoraj -- [Columbia's Grand Integrator](./2022/2025 Integration Bee Finals.pdf)** 
+6. Will	Li 
+7. Felix	Liu 
+8. Neilesh	Shrotri 
+9. Daniel	Cheng 
+10. Sharanya	Chatterjee 
+11. Zachary	Klein 
+12. Nikhil	Mudumbi 
+#### Reserves: 
+13. Shreyas	Rajaram 
+14. Dhruv	Yalamanchi 
+15. Shreyas	Singh 
+16. Mateo	Ramirez
+
+_ _ _
+
 #### 2024 Finalists 
 
 1.	Eric Yuang Shao
