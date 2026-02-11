@@ -16,7 +16,7 @@ The final tournament is based on a 12 player bracket style playoff, where the to
 ## 2026 Columbia Integration Bee
 
 - <span style="color:red"> **Qualifying round: Friday February 20 from 4:30 to 6:30pm in Havemeyer 309** </span>
-- **Registration link:** https://forms.gle/GZkvF5AzHPiWJhDF7  
+- **Registration link:** <a href="https://forms.gle/GZkvF5AzHPiWJhDF7" target="_blank">Register here</a>  
   *(Barnard students: please use your UNI with @columbia.edu)*
 - <span style="color:red"> **Final tournament: Friday March 6 at 5:30pm in Havemeyer 309** </span>  
 
