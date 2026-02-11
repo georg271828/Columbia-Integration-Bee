@@ -1,7 +1,7 @@
 # Past Years Columbia Integration Bee
 _ _ _  
 
-#### 2025 Finalists:
+#### 2025 Finalists 
 
 1. Andrii	Shypachov
 2. Leo	Li 
@@ -15,7 +15,7 @@ _ _ _
 10. Sharanya	Chatterjee 
 11. Zachary	Klein 
 12. Nikhil	Mudumbi 
-#### Reserves: 
+##### Reserves 
 13. Shreyas	Rajaram 
 14. Dhruv	Yalamanchi 
 15. Shreyas	Singh 
