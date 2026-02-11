@@ -13,31 +13,16 @@ The qualifying test can be taken during any one-hour interval within the time wi
 The final tournament is based on a 12 player bracket style playoff, where the top four contestants in the qualifying round are given byes in the first round. Participants in the elimination round compete head-to-head, at the blackboard. The competitors in the final tournament receive consolation prizes. The winner will be awarded the title of **Columbia's Grand Integrator**!
 
 
-## 2025 Columbia Integration Bee
+## 2026 Columbia Integration Bee
 
-- **Qualifying round:** [2025](./2022/2025_qualifying.pdf) 
-- <span style="color:red"> **Final tournament: Friday March 7 at 5:00pm in Havemeyer 309** </span>  
+- <span style="color:red"> **Qualifying round: Friday February 20 from 4:30 to 6:30pm in Havemeyer 309** </span>
+- **Registration link:** https://forms.gle/GZkvF5AzHPiWJhDF7  
+  *(Barnard students: please use your UNI with @columbia.edu)*
+- <span style="color:red"> **Final tournament: Friday March 6 at 5:30pm in Havemeyer 309** </span>  
 
-## 2025 Finalists:
+### 2026 Finalists
 
-1. Andrii	Shypachov
-2. Leo	Li 
-3. Luke	Freed 
-4. Eric	Shao 
-5. **Srijan	Deoraj -- [Columbia's Grand Integrator](./2022/2025 Integration Bee Finals.pdf)** 
-6. Will	Li 
-7. Felix	Liu 
-8. Neilesh	Shrotri 
-9. Daniel	Cheng 
-10. Sharanya	Chatterjee 
-11. Zachary	Klein 
-12. Nikhil	Mudumbi 
-
-### Reserves: 
-13. Shreyas	Rajaram 
-14. Dhruv	Yalamanchi 
-15. Shreyas	Singh 
-16. Mateo	Ramirez 
+(to be announced here, after the qualifying round) 
 
 ____
 ### FAQ
@@ -51,7 +36,7 @@ Bring a pencil at the qualifying round and ..some inspiration :) At the final to
 - *What type of problems will I solve?*  
 Integrals. 
 - *Where I can find past qualifying tests?*  
-For past qualifying tests see: [2022](./2022/2022_qualifying.pdf), [2023](./2022/2023_qualifying.pdf), and [2024](./2022/2024_qualifying.pdf).
+For past qualifying tests see: [2022](./2022/2022_qualifying.pdf), [2023](./2022/2023_qualifying.pdf), [2024](./2022/2024_qualifying.pdf), and [2025](./2022/2025_qualifying.pdf). 
 - *Where I can find past finalists?*   
 See more about the past competitions and the winners [here](./2022/2022_contest.html).
 - *I want to help organize the next Integration Bee. Who do I contact?*   
