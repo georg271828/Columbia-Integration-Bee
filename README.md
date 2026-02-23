@@ -7,38 +7,38 @@ The contest consists of two rounds, a **Qualifying Round** and a **Final Tournam
 ### Qualifying Round 
 In the qualifying round you will have **one hour** to solve as many integrals as you can from a list of 20+ integrals. Points are given only for complete, correct answers. Top 12 scores qualify for the single elimination round. The next four top scores are kept as reserves in case any of the top 12 are unable to attend.   
 
-The qualifying test can be taken during any one-hour interval within the time window listed below.
+The qualifying test can be taken during any one-hour interval within the time window listed below. 
 
 ### Final Tournament 
-The final tournament is based on a 12 player bracket style playoff, where the top four contestants in the qualifying round are given byes in the first round. Participants in the elimination round compete head-to-head, at the blackboard. The competitors in the final tournament receive consolation prizes. The winner will be awarded the title of **Columbia's Grand Integrator**!
+The final tournament is based on a 12 player bracket style playoff, where the top four contestants in the qualifying round are given byes in the first round. Participants in the elimination round compete head-to-head, at the blackboard. The competitors in the final tournament receive consolation prizes. The winner will be awarded the title of **Columbia's Grand Integrator**! 
 
 
-## 2026 Columbia Integration Bee
+## 2026 Columbia Integration Bee 
 
 - <span style="color:red"> **Final tournament: Friday March 6 at 5:30pm in Havemeyer 309** </span>  
 
-### 2026 Finalists
+### 2026 Finalists 
 
-1. Jonathan Xu
-2. Jeff Ho 
+1. Jonathan Xu 
+2. Jeff Ho
 3. William Jimenez 
 4. Tianyi Lu 
 5. Jia Hao Liang 
 6. Luke Freed 
 7. Eric Shao 
-8. Daniel Cheng
+8. Daniel Cheng 
 9. Dhruv Yalamanchi 
 10. Zachary Klein 
 11. Shreyas Singh 
 12. Hertz Huang  
 ##### Reserves 
 13. Felix Liu 
-14. Nikhil Mudumbi  
+14. Nikhil Mudumbi 
 15. Mikheil Vazagashvili  
 16. Gabriel Folorunso 
 
 ____
-### FAQ
+### FAQ 
 
 - *Who can compete?*  
 Any Barnard or Columbia undergraduate student.  
@@ -51,9 +51,9 @@ Integrals.
 - *Where I can find past qualifying tests?*  
 For past qualifying tests see: [2022](./2022/2022_qualifying.pdf), [2023](./2022/2023_qualifying.pdf), [2024](./2022/2024_qualifying.pdf), and [2025](./2022/2025_qualifying.pdf). 
 - *Where I can find past finalists?*   
-See more about the past competitions and the winners [here](./2022/2022_contest.html).
+See more about the past competitions and the winners [here](./2022/2022_contest.html). 
 - *I want to help organize the next Integration Bee. Who do I contact?*   
-Contact [George Dragomir](mailto:dragomir@math.columbia.edu?subject=Columbia%20Integration%20Bee).
+Contact [George Dragomir](mailto:dragomir@math.columbia.edu?subject=Columbia%20Integration%20Bee). 
 
 
 _ _ _
