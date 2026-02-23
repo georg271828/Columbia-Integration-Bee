@@ -15,14 +15,27 @@ The final tournament is based on a 12 player bracket style playoff, where the to
 
 ## 2026 Columbia Integration Bee
 
-- <span style="color:red"> **Qualifying round: Friday February 20 from 4:30 to 6:30pm in Havemeyer 309** </span>
-- **Registration link:** <a href="https://forms.gle/GZkvF5AzHPiWJhDF7" target="_blank">Register here</a>  
-  *(Barnard students: please use your UNI with @columbia.edu)*
 - <span style="color:red"> **Final tournament: Friday March 6 at 5:30pm in Havemeyer 309** </span>  
 
 ### 2026 Finalists
 
-(to be announced here, after the qualifying round) 
+1. Jonathan Xu
+2. Jeff Ho 
+3. William Jimenez 
+4. Tianyi Lu 
+5. Jia Hao Liang 
+6. Luke Freed 
+7. Eric Shao 
+8. Daniel Cheng
+9. Dhruv Yalamanchi 
+10. Zachary Klein 
+11. Shreyas Singh 
+12. Hertz Huang  
+##### Reserves 
+13. Felix Liu 
+14. Nikhil Mudumbi  
+15. Mikheil Vazagashvili  
+16. Gabriel Folorunso 
 
 ____
 ### FAQ
