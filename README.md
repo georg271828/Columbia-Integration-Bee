@@ -19,6 +19,8 @@ The final tournament is based on a 12 player bracket style playoff, where the to
 
 ### 2026 Finalists 
 
+- The [qualifying round](./2022/2026_qualifying.pdf) took place on Feb 20, 2026. Here are the top scores: 
+
 1. Jonathan Xu 
 2. Jeff Ho
 3. William Jimenez 
